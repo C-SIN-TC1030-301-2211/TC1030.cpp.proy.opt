@@ -6,6 +6,11 @@ Resuelve el ejercicio opcional **S3A1 - Polimorfismo y Clases Abstractas**. Revi
 
 Construye aquí el **Diagrama de clases UML** de tu solución. Puedes apoyarte con el [Editor Mermaid](https://mermaid.live/).
 
+```mermaid
+
+
+
+```
 
 ## Sobre el repositorio
 
