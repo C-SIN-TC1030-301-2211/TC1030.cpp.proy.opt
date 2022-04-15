@@ -6,6 +6,11 @@ Resuelve el ejercicio opcional **S5A1 - Manejo de Excepciones**. Revisa los requ
 
 Construye aquí el **Diagrama de clases UML** de tu solución. Puedes apoyarte con el [Editor Mermaid](https://mermaid.live/).
 
+```mermaid
+
+
+
+```
 
 ## Sobre el repositorio
 
