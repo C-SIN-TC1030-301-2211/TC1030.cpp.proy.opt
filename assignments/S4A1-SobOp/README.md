@@ -6,6 +6,12 @@ Resuelve el ejercicio opcional **S4A1 - Sobrecarga de Operadores**. Revisa los r
 
 Construye aquí el **Diagrama de clases UML** de tu solución. Puedes apoyarte con el [Editor Mermaid](https://mermaid.live/).
 
+```mermaid
+
+
+
+```
+
 
 ## Sobre el repositorio
 
