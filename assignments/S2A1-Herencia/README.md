@@ -6,6 +6,12 @@ Resuelve el ejercicio opcional **S2A1 - Herencia**. Revisa los requisitos en el 
 
 Construye aquí el **Diagrama de clases UML** de tu solución. Puedes apoyarte con el [Editor Mermaid](https://mermaid.live/).
 
+```mermaid
+
+
+
+```
+
 
 ## Sobre el repositorio
 
